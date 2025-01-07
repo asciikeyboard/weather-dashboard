@@ -41,7 +41,7 @@ The application will parse weather data from the cities. The weather data will b
 
 ## AWS Configuration
 
-The application uses the AWS CLI to interact with the S3. Ensure your AWS credentials are correctly set in the **.env** file. Also check the aws config file via <cat ~/.aws/config>.
+The application uses the AWS CLI to interact with the S3. Ensure your AWS credentials are correctly set in the **.env** file. Also check the aws config file via "cat ~/.aws/config" command.
 
 ## Resources
 
